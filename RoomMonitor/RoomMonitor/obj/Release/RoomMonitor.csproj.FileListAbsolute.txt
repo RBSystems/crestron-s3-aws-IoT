@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\RoomMonitor.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\Crestron.SimplSharpPro.Gateways.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\Crestron.SimplSharpPro.GeneralIO.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\M2Mqtt.NetCf35.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\Newtonsoft.Json.Compact.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\PepperDash_Core.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\PepperDash_Essentials_Core.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\SimplSharpCustomAttributesInterface.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\SimplSharpHelperInterface.dll
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\bin\Release\SimplSharpPro.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\RoomMonitor\RoomMonitor\obj\Release\RoomMonitor.dll
