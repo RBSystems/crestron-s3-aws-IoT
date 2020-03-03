@@ -55,6 +55,7 @@ Loading Application:03.....
 
 1. [SimplSharp Libraries](http://www.nivloc.com/downloads/crestron/SSharp/include4.dat%20=%202.09.036%20-%20Plugin%202.x/DLLs/)
 2. MQTT Testing: [HiveMQ](http://www.hivemq.com/demos/websocket-client/)
+3. [SimplSharp Dev Reference](https://help.crestron.com/simpl_sharp/)
 
 ## Notes
 
