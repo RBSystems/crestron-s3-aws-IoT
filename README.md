@@ -15,7 +15,7 @@ Setup: Windows 10, Visual Studio 8 SP1 + SIMPL# SDK (downloaded from Crestron we
 
 1. Toolbox->Program->Program##->Erase
 
-2. Copy <program>.cpz from VS2008 build directory to Crestron Processor (ftp://<Crestron IP>/Program##)
+2. Copy \<program\>.cpz from VS2008 build directory to Crestron Processor (ftp://\<Crestron IP\>/Program##)
 
 3. Open Dev Console and load the program (replace ## with the program number)
 ```
